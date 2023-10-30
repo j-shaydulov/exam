@@ -672,6 +672,10 @@ footer {
   }
   form .btn {
     width: 300px;
+    margin: 0 auto;
+  }
+  .massage_error {
+    margin: 0 auto;
   }
   .foot {
     padding: 40px 0;
